@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,QACE,WAAY,CACZ,wBAA4B,CAC5B,eAAgB,CAChB,wBAAkC,CAClC,iBAAkB,CAClB,gBAAiB","file":"main.02bcd28a.chunk.css","sourcesContent":[".button {\n  height: 30px;\n  background-color: aquamarine;\n  font-weight: 600;\n  border: 2px solid rgb(184, 3, 255);\n  border-radius: 5px;\n  margin-right: 5px;\n}\n"]}
